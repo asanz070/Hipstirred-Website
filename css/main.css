@@ -81,17 +81,17 @@ nav a {
 	padding: 10%;
 	color: #fff;
 	background-color: #520;
-	background-image: url(images/hero@2x.jpg);
+	background-image: url(../images/hero@2x.jpg);
 	background-position: center 75%;
 	background-repeat: no-repeat;
 	background-size: cover;
 }
 .about .hero,
 .thank-you .hero {
-	background-image: url(images/holding-coffee@2x.jpg);
+	background-image: url(../images/holding-coffee@2x.jpg);
 }
 .signup .hero {
-	background-image: url(images/coffee-bag@2x.jpg);
+	background-image: url(../images/coffee-bag@2x.jpg);
 }
 main {
 	max-width: 850px;
